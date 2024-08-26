@@ -28,7 +28,7 @@
         <java.version>11</java.version>
         <flyway.version>6.4.0</flyway.version>
         <modelmapper.version>2.3.0</modelmapper.version>
-        <springfox.version>2.9.2</springfox.version>
+        <springfox.version>2.10.0</springfox.version>
         <license.name>MIT License Copyright (c) 2020 Mayara Rysia</license.name>
         <license.url>https://github.com/mayararysia/conference-demo/blob/master/LICENSE</license.url>
     </properties>
